@@ -14,7 +14,7 @@ public class Exercise_04 {
 
         int i = 1;
         System.out.println("int i is: " + i);
-
+        System.out.println("new");
         // write your code below
 
     }
